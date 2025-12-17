@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Thrilling Dream",
+  "base_artist": "すなお・りすこfrom STAR☆ANIS",
+  "createdAt": "2025-12-17T19:04:37.592333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thrilling Dream",
+      "artist": "すなお・りすこfrom STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/01_Thrilling_Dream_すなお・りすこfrom_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thrilling Dream",
+      "artist": "すなお・りすこ from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/02_Thrilling_Dream_すなお・りすこ_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whoever's Thrilling You (Is Killing Me)",
+      "artist": "Rufus",
+      "has_synced": false,
+      "path": "select/03_Whoever's_Thrilling_You_(Is_Killing_Me)_Rufus.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Whoever's Thrilling You (Is Killing Me)",
+      "artist": "Rufus Featuring Chaka Khan",
+      "has_synced": false,
+      "path": "select/04_Whoever's_Thrilling_You_(Is_Killing_Me)_Rufus_Featuring_Chaka_Khan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(This Is) The Thrilling Conversation You've Been Waiting for",
+      "artist": "Harvey Danger",
+      "has_synced": true,
+      "path": "select/05_(This_Is)_The_Thrilling_Conversation_You've_Been_Waiting_for_Harvey_Danger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everything's Thrilling",
+      "artist": "Guided By Voices",
+      "has_synced": false,
+      "path": "select/06_Everything's_Thrilling_Guided_By_Voices.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thrilling",
+      "artist": "Gli Alluminogeni",
+      "has_synced": false,
+      "path": "select/07_Thrilling_Gli_Alluminogeni.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thrilling - base",
+      "artist": "Rita Monico",
+      "has_synced": false,
+      "path": "select/08_Thrilling_-_base_Rita_Monico.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thrilling in the Kill",
+      "artist": "TytoCat",
+      "has_synced": true,
+      "path": "select/09_Thrilling_in_the_Kill_TytoCat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KURUZO Thrilling (feat. Raul Midon)",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/10_KURUZO_Thrilling_(feat._Raul_Midon)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thrilling Crime",
+      "artist": "The Dust of Basement",
+      "has_synced": false,
+      "path": "select/11_Thrilling_Crime_The_Dust_of_Basement.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Milano Model (A Thrilling Mungophony in Two Parts)",
+      "artist": "Ost & Kjex",
+      "has_synced": false,
+      "path": "select/12_Milano_Model_(A_Thrilling_Mungophony_in_Two_Parts)_Ost_&_Kjex.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(This Is) The Thrilling Conversation You've Been Waiting For (Album Version)",
+      "artist": "Harvey Danger",
+      "has_synced": false,
+      "path": "select/13_(This_Is)_The_Thrilling_Conversation_You've_Been_Waiting_For_(Album_Version)_Harvey_Danger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thrilling Dream",
+      "artist": "すなお・りすこ from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_Thrilling_Dream_すなお・りすこ_from_STAR☆ANIS.txt"
+    }
+  ]
+}
